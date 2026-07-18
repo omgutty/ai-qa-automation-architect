@@ -1,0 +1,9 @@
+[project]
+name = "ai-qa-automation-architect"
+version = "0.1.0"
+description = "AI-powered QA automation system for intelligent test generation and reporting"
+requires-python = ">=3.12"
+
+[build-system]
+requires = ["setuptools>=75.0"]
+build-backend = "setuptools.build_meta"
