@@ -13,6 +13,32 @@ An enterprise-grade multi-agent AI platform that transforms Jira requirements in
 - Vercel
 
 
+------------------------------------
+Our Product
+AI QA Automation Architect Platform
+
+Input:
+
+Jira Ticket
+
+Output:
+
+✔ Requirement Analysis
+
+✔ Test Strategy
+
+✔ Test Plan
+
+✔ Test Cases
+
+✔ Store into RAG
+
+✔ Ask Questions
+
+✔ Email Report
+
+✔ Dashboard
+-----------------------------------------------
 
 
                         Next.js (Frontend)

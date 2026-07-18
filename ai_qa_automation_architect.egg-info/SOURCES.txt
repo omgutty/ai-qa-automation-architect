@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+ai_qa_automation_architect.egg-info/PKG-INFO
+ai_qa_automation_architect.egg-info/SOURCES.txt
+ai_qa_automation_architect.egg-info/dependency_links.txt
+ai_qa_automation_architect.egg-info/requires.txt
+ai_qa_automation_architect.egg-info/top_level.txt

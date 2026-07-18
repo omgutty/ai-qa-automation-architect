@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: ai-qa-automation-architect
+Version: 0.1.0
+Summary: AI-powered QA automation system for intelligent test generation and reporting
+Requires-Python: >=3.12
+Requires-Dist: langflow>=1.10.2
